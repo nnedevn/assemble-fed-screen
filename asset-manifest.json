@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/assemble-fed-screen/static/css/main.b100e6da.chunk.css",
+    "main.js": "/assemble-fed-screen/static/js/main.5e3e365b.chunk.js",
+    "main.js.map": "/assemble-fed-screen/static/js/main.5e3e365b.chunk.js.map",
+    "runtime-main.js": "/assemble-fed-screen/static/js/runtime-main.94036926.js",
+    "runtime-main.js.map": "/assemble-fed-screen/static/js/runtime-main.94036926.js.map",
+    "static/js/2.7bd2a786.chunk.js": "/assemble-fed-screen/static/js/2.7bd2a786.chunk.js",
+    "static/js/2.7bd2a786.chunk.js.map": "/assemble-fed-screen/static/js/2.7bd2a786.chunk.js.map",
+    "index.html": "/assemble-fed-screen/index.html",
+    "precache-manifest.7e8d5b20c3f0a5d3797c327bf4a5d9b4.js": "/assemble-fed-screen/precache-manifest.7e8d5b20c3f0a5d3797c327bf4a5d9b4.js",
+    "service-worker.js": "/assemble-fed-screen/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/assemble-fed-screen/static/css/main.b100e6da.chunk.css.map"
+  }
+}
